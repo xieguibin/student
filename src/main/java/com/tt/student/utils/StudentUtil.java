@@ -1,6 +1,6 @@
 package com.tt.student.utils;
 /**
- * 这是我写的
+ * 这是马老师加的
  */
 
 public class StudentUtil {
